@@ -3,6 +3,6 @@ id: ctrlacc
 name: TuesCtrlAcc
 type: shield
 url: https://github.com/tuesdesign/ctrlacc/
-requires: [seeeduino_xiao_ble]
+requires: [xiao_ble]
 features:
   - keys

@@ -5,8 +5,8 @@
 # pass flags to the build command and `artifact-name` to assign a name to
 # distinguish build outputs from each other:
 #
-#board: [ "seeeduino_xiao_ble" ]
-#[ "ctrlacc" ]
+# board: [ "seeeduino_xiao_ble" ]
+# [ "ctrlacc" ]
 include:
   - board: seeeduino_xiao_ble
     shield: ctrlacc
