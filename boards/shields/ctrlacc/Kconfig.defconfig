@@ -5,3 +5,5 @@ config ZMK_CTRLACC
     default "Tues Design CTRL-ACC"
 
 endif
+
+CONFIG_ZMK_STUDIO=y
