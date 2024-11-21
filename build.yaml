@@ -5,8 +5,8 @@
 # pass flags to the build command and `artifact-name` to assign a name to
 # distinguish build outputs from each other:
 #
-# board: [ "nice_nano_v2" ]
-# shield: [ "corne_left", "corne_right" ]
+board: [ "xiao_ble" ]
+[ "ctrlacc" ]
 include:
   - board: xiao_ble
     shield: ctrlacc
