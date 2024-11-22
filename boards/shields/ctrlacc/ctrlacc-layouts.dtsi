@@ -6,7 +6,7 @@
         display-name = "Tues Design CTRL-ACC";
 
         kscan = <&kscan0>;
-        transform = <&keymap_transform0>;
+        transform = <&default_transform>;
 
         keys  //                     w   h    x    y     rot    rx    ry
             = <&key_physical_attrs 100 150  150    0       0     0     0>
