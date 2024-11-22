@@ -1,4 +1,5 @@
 #include <dt-bindings/zmk/matrix_transform.h> // Put this with the other includes at the top of your overlay
+#include <ctrl-layouts.dtsi>
 
 / {
     kscan0: kscan0 {
@@ -37,12 +38,5 @@
         //   Key 16 | Key 17 | Key 18 | Key 19 | Key 20
             RC(3,0) RC(3,1) RC(3,2) RC(3,3) RC(3,4)
         >;
-    };
-};
-
-/ {
-    chosen {
-        zmk,physical-layout = &physical_layout_0;
-        // Other chosen items
     };
 };
