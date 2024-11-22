@@ -44,6 +44,7 @@
 / {
     chosen {
         zmk,physical-layout = &physical_layout0;
+        zmk,matrix-transform = &keymap_transform0;
         // Other chosen items
     };
 };
