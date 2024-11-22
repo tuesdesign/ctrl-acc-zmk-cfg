@@ -2,7 +2,7 @@ if SHIELD_CTRLACC
 
 # Name must be less than 16 characters long!
 config ZMK_KEYBOARD_NAME
-    default "Tues Design CTRL-ACC"
+    default "Tues CTRL-ACC"
 
 endif
 
