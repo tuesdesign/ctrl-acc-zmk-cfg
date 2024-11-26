@@ -11,7 +11,7 @@
             // |     A     |     S     |     D     |     F     |   LCTRL   |
             // |     Z     |     X     |     C     |     V     |   SPACE   |
             bindings = <
-                &kp PG_UP    &kp PG_UP    &kp PG_DOWN     &kp PG_DOWN    &kp ESCAPE
+                &kp PAGE_UP    &kp PAGE_UP    &kp PAGE_DOWN    &kp PAGE_DOWN    &kp ESCAPE
                 &kp Q    &kp W    &kp E     &kp R    &kp LSHFT
                 &kp A    &kp S    &kp D     &kp F    &kp LCTRL
                 &kp Z    &kp X    &kp C     &kp V    &kp SPACE
