@@ -6,7 +6,7 @@
 
         default_layer { // Layer 0
             // -------------------------------------
-            // |     1     |     2     |     3     |     4     |     K     |
+            // |     1     |     2     |     3     |     4     |    ESC    |
             // |     Q     |     W     |     E     |     R     |   LSHFT   |
             // |     A     |     S     |     D     |     F     |   LCTRL   |
             // |     Z     |     X     |     C     |     V     |   SPACE   |
